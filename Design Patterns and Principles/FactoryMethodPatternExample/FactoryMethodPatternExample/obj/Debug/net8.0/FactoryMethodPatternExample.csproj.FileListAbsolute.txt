@@ -1,0 +1,14 @@
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.exe
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.deps.json
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\refint\FactoryMethodPatternExample.dll
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\nirup\OneDrive\Desktop\Week 1 Hands-on exercises\Design Patterns and Principles\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\ref\FactoryMethodPatternExample.dll

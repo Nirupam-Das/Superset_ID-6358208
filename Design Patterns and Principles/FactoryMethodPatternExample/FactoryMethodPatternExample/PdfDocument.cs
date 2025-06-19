@@ -1,0 +1,7 @@
+﻿public class PdfDocument : IDocument
+{
+    public void Open()
+    {
+        Console.WriteLine("Opening a PDF Document.");
+    }
+}
